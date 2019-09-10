@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class FutApplication {
 
+	//teste
 	public static void main(String[] args) {
 		SpringApplication.run(FutApplication.class, args);
 	}
